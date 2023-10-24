@@ -1,0 +1,39 @@
+div{
+  text-align:center
+ }
+ img{
+  margin-top:15px;
+  margin-left:25px
+ }
+ button{
+  
+  height:40px;
+  border:none;
+  border-width:1px;
+  margin-bottom: 12px;
+  border-color:rgb(202, 198, 198); 
+ }
+.i1{
+  display:block;
+  width: 500px; 
+  height: 30px; 
+  border-radius:15px;
+  font-weight: bold;
+  margin-left: 550px;
+  margin-bottom: 25px;
+  border:none;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.2);
+  padding-left: 12px;
+  
+  
+}
+.i2,.i3{
+  font-weight: bold;
+  color:black;
+  background-color:rgb(247, 243, 243);
+  border:none;
+  text-align: center;
+  width:200px;
+  margin-right:25px
+  
+}

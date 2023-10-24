@@ -1,0 +1,33 @@
+
+input{
+border-radius: 5px;
+border-color: gray;
+border:solid;
+margin-bottom: 15px;
+border-width: 1px;
+padding-left: 14px;
+padding-bottom: 14px;
+padding-top: 14px;
+}
+.i1,.i2{
+  display:inline-block
+}
+.i3{
+  display:block;
+  width:360px
+}
+button:hover{
+  cursor:pointer;
+  transition: opacity;
+}
+button{
+  display:block;
+  width:380px;
+  height:40px;
+  background-color:rgb(50, 50, 212);
+  color:white;
+  border-radius:5px;
+  font-size:18px;
+  border:none;
+  transition:opacity 0.15s
+}

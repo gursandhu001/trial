@@ -1,0 +1,28 @@
+.i1{
+  width:300px;
+
+  object-fit:contain ;
+  display:block
+}
+.search{
+display :block
+}
+p{
+  width:300px;
+}
+.d1{
+  width:300px;
+  display:inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+.profile,.info{
+  display:inline-block;
+}
+.profile{
+  width:50px;
+  border-radius:25px
+}
+.info{
+
+}
